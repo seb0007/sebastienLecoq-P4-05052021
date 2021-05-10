@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -775,7 +775,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
+    font-weight: 900;
 }
 
 .btn-atomic-tangerine {
@@ -1033,10 +1034,30 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+
+   
 }
 
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
     }
+
+    .col-sm-6
+    {
+        width: 350px;
+        margin-left: auto;
+        margin-right: auto
+    }
 }
+
+h1
+{
+    text-align: center;
+}
+
+.img
+{
+    font-size: 20px;
+}
+
