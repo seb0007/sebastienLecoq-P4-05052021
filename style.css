@@ -1106,6 +1106,12 @@ a
     color: white;
 }
 
+.col-sm-4 ul
+{
+    text-align: center;
+    margin-right: 50px;
+}
+
 .col-sm-4 li
 {
     list-style-type: none;
