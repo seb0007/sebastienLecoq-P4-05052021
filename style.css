@@ -885,8 +885,8 @@ h4 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
+        padding-left: 10px;
+        padding-right: 10px;
     }
 }
 
@@ -1060,9 +1060,9 @@ h4 {
         width: 100%;
     }
 
-    .col-sm-4
+    .col-sm-6
     {
-
+      /* padding-left: 0px;*/
     }
 
     
