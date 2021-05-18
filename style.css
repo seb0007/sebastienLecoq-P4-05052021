@@ -764,7 +764,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: rgba(148, 24, 11);
 }
 
 .tc-white {
@@ -773,7 +773,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background-color: rgba(148, 24, 11);
     color: #FFFFFF;
 }
 
@@ -1084,6 +1084,10 @@ label
     line-height: 2;
 }
 
+.navbar
+{
+    position: relative;
+}
 
 h1
 {
