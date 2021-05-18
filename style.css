@@ -318,6 +318,7 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    line-height: 2;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -1032,7 +1033,6 @@ h4 {
         width: 100%;
     }
 
-   
 }
 
 @media (max-width: 767px) {
